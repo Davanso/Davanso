@@ -7,21 +7,21 @@
 - 💼 Atualmente trabalho com automação industrial
 
 ## 🌱 Em Aprendizado
-- 🔨 Angular para desenvolvimento de aplicativos web
+- 🔨 Angular e React para desenvolvimento de aplicativos web
 - 💡 Programação JavaScript para funcionalidades interativas em páginas web
 - 🖥️ Hyper-V para virtualização
 - ☕ Java para o back-end
 
 ## 💻 Tecnologias que uso
 - **Frontend**: HTML, CSS, JavaScript
-- **Frameworks**: Angular
+- **Frameworks**: Angular / React (Aprendizado)
 - **Backend**: APIs RESTful and Java
 - **Banco de dados**: MySQL, PostgreSQL
 - **Ferramentas**: Hyper-V, Git, GitHub
 
 ## ⚡ Projetos em Destaque
 - **Java projects**: Um pouco dos meus projetos em Java.
-- **Gas-or-Ethanol **: An app that help you to decide whats is better for your car and your pocket.
+- **Gas-or-Ethanol**: An app that help you to decide whats is better for your car and your pocket.
 - **portifolio-react**: My personal portifolio
 - And some other small projects.
 
