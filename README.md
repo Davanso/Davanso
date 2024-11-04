@@ -3,20 +3,20 @@
 ## 🚀 Sobre mim
 - 🎓 Estudante de Engenharia de Software (5º semestre) - **Previsão de término: Dezembro de 2026**
 - 📍 Localizado em Indaiatuba, SP
-- 🎯 Interesse em: **Desenvolvimento Web, Desenvolvimento Java e automação de tarefas**
+- 🎯 Interesse em: **Desenvolvimento Web, Desenvolvimento Java e Pyyhon e automação de tarefas**
 - 💼 Atualmente trabalho com automação industrial
 
 ## 🌱 Em Aprendizado
 - 🔨 Angular e React para desenvolvimento de aplicativos web
-- 💡 Programação JavaScript para funcionalidades interativas em páginas web
+- 💡 Estudo em Flask para desenvolvimento full-stack
 - 🖥️ Hyper-V para virtualização
 - ☕ Java para o back-end
 
 ## 💻 Tecnologias que uso
 - **Frontend**: HTML, CSS, JavaScript
-- **Frameworks**: Angular / React (Aprendizado)
-- **Backend**: APIs RESTful and Java
-- **Banco de dados**: MySQL, PostgreSQL
+- **Frameworks**: React / Flask (aprendizado)
+- **Backend**: APIs RESTful, Java, Python
+- **Banco de dados**: MySQL, PostgreSQL, SQLite3
 - **Ferramentas**: Hyper-V, Git, GitHub
 
 ## ⚡ Projetos em Destaque
