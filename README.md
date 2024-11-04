@@ -20,6 +20,7 @@
 - **Ferramentas**: Hyper-V, Git, GitHub
 
 ## ⚡ Projetos em Destaque
+- **Projeto Flask**: Um pouco de projeto usando Flask e Python
 - **Java projects**: Um pouco dos meus projetos em Java.
 - **Gas-or-Ethanol**: An app that help you to decide whats is better for your car and your pocket.
 - **portifolio-react**: My personal portifolio
