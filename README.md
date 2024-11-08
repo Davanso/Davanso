@@ -7,10 +7,10 @@
 - 💼 Atualmente trabalho com automação industrial
 
 ## 🌱 Em Aprendizado
-- 🔨 Angular e React para desenvolvimento de aplicativos web
+- 🔨 React para desenvolvimento de aplicativos web
 - 💡 Estudo em Flask para desenvolvimento full-stack
-- 🖥️ Hyper-V para virtualização
-- ☕ Java para o back-end
+- 🖥️ Hyper-V / VMWare para virtualização
+- ☕ Java e Python para o back-end
 
 ## 💻 Tecnologias que uso
 - **Frontend**: HTML, CSS, JavaScript
