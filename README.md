@@ -3,12 +3,11 @@
 ## 🚀 Sobre mim
 - 🎓 Estudante de Engenharia de Software (5º semestre) - **Previsão de término: Dezembro de 2026**
 - 📍 Localizado em Indaiatuba, SP
-- 🎯 Interesse em: **Desenvolvimento Web, Desenvolvimento Java e Pyyhon e automação de tarefas**
+- 🎯 Interesse em: **Desenvolvimento Web, Desenvolvimento Java e Python e automação de testes**
 - 💼 Atualmente trabalho com automação industrial
 
 ## 🌱 Em Aprendizado
 - 🔨 React para desenvolvimento de aplicativos web
-- 💡 Estudo em Flask para desenvolvimento full-stack
 - 🖥️ Hyper-V / VMWare para virtualização
 - ☕ Java e Python para o back-end
 
@@ -22,9 +21,11 @@
 ## ⚡ Projetos em Destaque
 - **Projeto Flask**: Um pouco de projeto usando Flask e Python
 - **Java projects**: Um pouco dos meus projetos em Java.
-- **Gas-or-Ethanol**: An app that help you to decide whats is better for your car and your pocket.
-- **portifolio-react**: My personal portifolio
-- And some other small projects.
+- **Gas-or-Ethanol**: Um app que te ajuda a escolher qual combustível é melhor para seu carro!
+- **Finance.ia**: Projeto de uma plataforma de gestão fihanceira com integração com IA! (em desenvolvimento)
+- **Imersão Dev Back-end**: Projeto Alura com google Gemini e API's.
+- **portifolio-react**: Meu portifolio pessoal.
+- E mais!
 
 ## 📫 Como me encontrar
 - **E-mail**: gui.social.ti@gmail.com
