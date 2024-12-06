@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 - 🎓 Estudante de Engenharia de Software (5º semestre) - **Previsão de término: Dezembro de 2026**
 - 📍 Localizado em Indaiatuba, SP
-- 🎯 Interesse em: **Desenvolvimento Web, Desenvolvimento Java e Python e automação de testes**
+- 🎯 Interesse em: **Desenvolvimento Web, Javascript e Python e também automação de testes**
 - 💼 Atualmente trabalho com automação industrial
 
 ## 🌱 Em Aprendizado
