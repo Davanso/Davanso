@@ -4,7 +4,7 @@
 - 🎓 Estudante de Engenharia de Software (5º semestre) - **Previsão de término: Dezembro de 2026**
 - 📍 Localizado em Indaiatuba, SP
 - 🎯 Interesse em: **Desenvolvimento Web, Javascript e Python e também automação de testes**
-- 💼 Atualmente trabalho com automação industrial
+- 💼 Software Engeneer at @JohnDeere
 
 ## 🌱 Em Aprendizado
 - 🔨 React para desenvolvimento de aplicativos web
