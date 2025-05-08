@@ -14,8 +14,7 @@
 - 🎯 Test Automation  
 
 ## ⚡ Featured Projects  
-- **portfolio-react**: My personal portfolio.  
-- **gym-set**: An app to help you track your personal records at the gym.  
+- 
 
 ## 📫 How to Reach Me  
 - **Email**: gui.social.ti@gmail.com  
