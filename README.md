@@ -14,7 +14,7 @@
 - 🎯 Test Automation  
 
 ## ⚡ Featured Projects  
-- 
+- USF Score [Click Here!](https://usf-score.vercel.app/)
 
 ## 📫 How to Reach Me  
 - **Email**: gui.social.ti@gmail.com  
