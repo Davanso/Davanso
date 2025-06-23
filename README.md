@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 # Hello World! I'am Guilherme Destro Davanso 👋
 
-- 🎓 Software Engineering Student (5th semester) - **Expected graduation: December 2026**  
+- 🎓 Software Engineering Student (6th semester) - **Expected graduation: December 2026**  
 - 📍 Based in Indaiatuba, SP  
 - 💼 Software Developer at @JohnDeere 🦌
 
