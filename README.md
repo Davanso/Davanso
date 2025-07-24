@@ -9,11 +9,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
-<p align="left">Sou um entusiasta da tecnologia e apaixonado por programação e desenvolvimento de software. Comprometido em expandir meu conhecimento e habilidades no vasto universo da computação, estou sempre em busca de novas oportunidades de aprendizado e desafios estimulantes.<br><br>Além do código, valorizo a colaboração e o compartilhamento de conhecimento. Acredito firmemente que o crescimento profissional é impulsionado pela troca de experiências com outros desenvolvedores e pela participação em projetos colaborativos.<br><br>Neste perfil do GitHub, você encontrará uma diversidade de projetos nos quais tenho trabalhado, desde pequenos scripts até aplicações mais complexas. Fique à vontade para explorar, contribuir e deixar seus comentários. Juntos, podemos criar soluções incríveis e impulsionar a inovação na comunidade de desenvolvimento de software.</p>
+<p align="left">I'm a technology enthusiast with a passion for programming and software development. Driven by a constant desire to grow, I’m always seeking new learning opportunities and engaging challenges within the vast world of computing.
+
+Beyond the code, I truly value collaboration and knowledge sharing. I believe that professional growth is fueled by exchanging experiences with other developers and contributing to collaborative projects.
+
+On this GitHub profile, you’ll find a variety of projects I’ve worked on — from small scripts to more complex applications. Feel free to explore, contribute, and share your thoughts. Together, we can build amazing solutions and drive innovation within the software development community.</p>
 
 ###
 
